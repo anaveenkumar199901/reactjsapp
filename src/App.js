@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Test Page to deploy ReactJS on GITHUB.
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href="https://p15s18.github.io/reactjsapp/"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
